@@ -68,7 +68,7 @@ app/google-services.json
 
 ---
 
-### 📌 Application Description
+### Application Description
 
 Panic Button is an emergency feature application that allows users to send signals or request help quickly in dangerous or urgent situations.
 This application is integrated with IoT devices that act as a physical alarm system when an emergency is detected or triggered.
