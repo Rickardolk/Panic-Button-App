@@ -64,10 +64,9 @@ app/google-services.json
 ---
 
 <br>
+<br>
 
 ---
-
-# 🌐 English
 
 ### 📌 Application Description
 
