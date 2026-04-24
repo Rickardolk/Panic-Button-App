@@ -22,7 +22,7 @@ Gunakan salah satu metode berikut:
 #### 🔹 Via Git
 
 ```bash id="pb_git_clone_id"
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Rickardolk/Panic-Button-App.git
 ```
 
 #### 🔹 Download ZIP
@@ -91,7 +91,7 @@ Choose one of the following methods:
 #### 🔹 Via Git
 
 ```bash id="pb_git_clone_en"
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Rickardolk/Panic-Button-App.git
 ```
 
 #### 🔹 Download ZIP
